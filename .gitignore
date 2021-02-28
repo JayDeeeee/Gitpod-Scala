@@ -3,6 +3,7 @@ target/
 lib_managed/
 src_managed/
 project/boot/
+project/metals.sbt
 project/plugins/project/
 .history
 .cache
